@@ -74,13 +74,13 @@ When designing PKI with GCP CAS, the following limits should be taken into consi
 3. Open up Cloud shell and clone the following [git repository](https://github.com/GoogleCloudPlatform/csa-certificate-authority-service) using the command below:
 
 ```
-git clone https://github.com/GCP-Architecture-Guides/csa-certificate-authority-service.git
+git clone https://github.com/imanebougalzim/PKI_Project.git
 ```
 
 4. Navigate to the csa-certificate-authority-service folder.
 
 ```
-cd csa-certificate-authority-service</th>
+cd PKI_Project</th>
 ```
 5. Export the project id in the Terraform variable
 
