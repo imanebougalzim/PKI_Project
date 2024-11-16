@@ -80,12 +80,12 @@ git clone https://github.com/imanebougalzim/PKI_Project.git
 4. Navigate to the csa-certificate-authority-service folder.
 
 ```
-cd PKI_Project</th>
+cd PKI_Project
 ```
 5. Export the project id in the Terraform variable
 
 ```
-export TF_VAR_demo_project_id=[YOUR_PROJECT_ID]
+export TF_VAR_demo_project_id=[YOUR_PROJECT_ID] 
 ```
 
 6. While in the csa-certificate-authority-service folder, run the commands below in order. 
